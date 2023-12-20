@@ -1,0 +1,216 @@
+<b>SYARAT DAN KETENTUAN PENGGUNA TEA ATM SEHAT</b>
+
+SYARAT DAN KETENTUAN PENGGUNAAN
+
+TEA ATM SEHAT
+
+
+(Terakhir diperbarui tanggal: 3 Maret 2023)
+
+ 
+
+MOHON UNTUK MEMBACA SELURUH SYARAT DAN KETENTUAN PENGGUNAAN SERTA KEBIJAKAN PRIVASI TEA ATM SEHAT DENGAN CERMAT DAN SAKSAMA SEBELUM MENGGUNAKAN SETIAP FITUR DAN/ATAU LAYANAN YANG TERSEDIA DALAM PLATFORM TEA ATM SEHAT
+
+ 
+
+Syarat dan Ketentuan Penggunaan Tea ATM Sehat (“<b>Ketentuan Penggunaan</b>”) ini merupakan suatu perjanjian sah terkait tata cara dan persyaratan penggunaan fitur dan/atau layanan (“<b>Layanan</>”) Platform Tea ATM Sehat (“<b>Platform</b>”) antara Pengguna (“<b>Anda</b>”) dengan pengelola Platform, yaitu PT Tele Sehat Indonesia (“<b>Kami</b>”). Dengan mengunduh dan/atau memasang dan/atau menggunakan Platform dan/atau menikmati Layanan Kami, Anda setuju bahwa Anda telah membaca, memahami, mengetahui, menerima, dan menyetujui seluruh informasi, syarat-syarat, dan ketentuan-ketentuan penggunaan Platform yang terdapat dalam Ketentuan Penggunaan ini. 
+
+Kami dapat mengubah ketentuan dalam Ketentuan Penggunaan ini kapan saja. Perubahan tersebut akan berlaku setelah ditampilkan di Platform. Adalah tanggung jawab Anda untuk meninjau Ketentuan Penggunaan secara teratur. Keberlanjutan Anda atas penggunaan Platform setelah adanya setiap perubahan tersebut, baik telah Anda tinjau atau tidak, akan merupakan perjanjian Anda untuk terikat oleh setiap perubahan tersebut.
+
+Apabila Anda tidak setuju terhadap salah satu, sebagian, atau seluruh isi yang tertuang dalam Ketentuan Penggunaan ini, silakan untuk menghapus Platform dalam perangkat elektronik Anda dan/atau tidak mengakses Platform dan/atau tidak menggunakan Layanan Kami. Mohon untuk dapat diperhatikan pula bahwa Ketentuan Penggunaan ini dapat diperbarui dari waktu ke waktu.
+
+1. KETENTUAN UMUM
+
+	a.	Platform adalah aplikasi (versi Android atau iOS), aplikasi web (aplikasi yang dapat diakses menggunakan web), dan/atau website yang dikelola oleh Kami sebagaimana diperbarui dari waktu ke waktu.
+	b.	Alat pemeriksaan kesehatan internet of thing adalah semua alat cek kesehatan pintar yang terkoneksi, berizin dan bekerja sama dengan Platform kami.
+	c.	Koneksi internet diperlukan untuk dapat menggunakan Layanan dan biaya terkait penggunaan koneksi internet tersebut ditanggung sepenuhnya oleh Anda. 
+	d.	Platform berfungsi sebagai sarana untuk menyimpan data hasil pemeriksaan kesehatan. Anda dapat membagikan hasil cek kesehatan kepada pihak ketiga. Semua aktifitas pembagian data kesehatan hanya dan akan dilakukan atas persetujuan anda sesuai dengan ketentuan perundang-undangan yang berlaku, kecuali atas permintaan pemerintah yang berwenang mendapatkan akses data kesehatan dan atau pihak kepolisian dan atau kejaksaan yang memerlukan data kesehatan Anda untuk suatu proses hukum.
+	e.	Platform juga berfungsi sebagai sarana untuk menghubungkan Anda dengan pihak ketiga yang menyediakan layanan atau menjual barang kepada Anda seperti (tetapi tidak terbatas pada) dokter, psikolog, dokter hewan, apotek, laboratorium, rumah sakit, penyedia asuransi dan/atau jasa pengantaran (“<b>Penyedia Layanan</b>”).
+	f.	Jenis-jenis layanan yang dapat diakses dan digunakan melalui Platform adalah:
+		1)	Simpan hasil cek kesehatan; 
+		2)	Chat dengan Dokter;
+		3)	Artikel dan Informasi Kesehatan;
+		4)	Deteksi dini masalah kesehatan;
+		5)	Layanan lain yang dapat Kami tambahkan dari waktu ke waktu;
+		(“<b>Layanan</b>”).
+	g.	Aplikasi web merupakan fitur yang berfungsi sebagai sarana Anda untuk mengakses beberapa Layanan Kami tanpa perlu mengunduh Aplikasi (“<b>Aplikasi Web</b>”).
+	h.	Kami dapat menggunakan jasa pihak ketiga terkait penyediaan layanan pembayaran. Apabila terjadi kegagalan pada sistem pembayaran, Kami akan berupaya semaksimal mungkin dalam membantu menyelesaikan masalah yang mungkin timbul. Penyedia jasa perbankan/pembayaran yang dipilih oleh Anda dapat mengenakan biaya tambahan kepada Anda atas layanan yang diberikan. 
+	i.	Platform memungkinkan Anda untuk mengirimkan permintaan atas suatu Layanan kepada Penyedia Layanan. Penyedia Layanan memiliki kebijakan sendiri dan kewenangan penuh untuk menerima atau menolak setiap permintaan Anda atas Layanan. Jika Penyedia Layanan menerima permintaan Anda, Platform akan memberitahu Anda dan memberikan informasi mengenai Penyedia Layanan, termasuk nomor order dan kemampuan untuk menghubungi Penyedia Layanan melalui telepon. 
+	j.	Setiap fitur atau fasilitas dalam Platform dapat diperbarui atau diubah sesuai  dengan kebutuhan dan perkembangan Platform.
+	k.	Pengumpulan, penyimpanan, pengolahan, penggunaan dan pembagian setiap informasi pribadi Anda, seperti nama, alamat surat elektronik, dan nomor telepon genggam Anda yang Anda berikan ketika Anda membuka akun di Platform, maupun setiap informasi terkait data riwayat kesehatan Anda tunduk pada Kebijakan Privasi, yang merupakan bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini. Anda memahami dan setuju bahwa penggunaan Anda atas Platform juga harus mematuhi Kebijakan Privasi Kami, sebagaimana dapat diperbaharui dari waktu ke waktu.  
+	l.	Kami dapat menghentikan atau membatasi proses registrasi atau penggunaan Platform oleh Anda jika ditemukan pelanggaran dari Ketentuan Penggunaan ini atau peraturan perundang-undangan yang berlaku.
+	m.	Kami adalah perusahaan teknologi, bukan penyedia layanan kesehatan, dan Kami tidak menyediakan layanan kesehatan. Kami tidak mempekerjakan Penyedia Layanan, dan Kami tidak bertanggung jawab atas tindakan, kecerobohan, kelalaian, dan/atau kelengahan Penyedia Layanan. Platform merupakan layanan informasi dan komunikasi online yang disediakan oleh Tea ATM Sehat.
+
+
+2. KETENTUAN PENGGUNAAN PLATFORM
+
+ 
+	a.	Anda menyatakan dan menjamin bahwa Anda adalah individu yang memiliki hak untuk mengadakan perjanjian yang mengikat berdasarkan hukum Negara Republik Indonesia dan bahwa Anda telah berusia minimal 21 (dua puluh satu) tahun atau sudah menikah dan tidak berada di bawah perwalian atau pengampuan. Jika Anda berusia di bawah 21 (dua puluh satu) tahun dan belum menikah, Anda menyatakan dan menjamin bahwa Anda telah memperoleh izin dari orang tua atau wali hukum Anda, kecuali Anda  menyatakan sebaliknya. Dengan memberikan persetujuan, orang tua atau wali hukum Anda setuju untuk bertanggung jawab atas: (i) semua tindakan Anda terkait akses ke dan penggunaan Platform dan/atau Layanan; (ii) biaya apa pun terkait penggunaan Anda atas Layanan apa pun; dan (iii) kepatuhan Anda terhadap Ketentuan Penggunaan ini. Kami berhak untuk menutup atau membatalkan pendaftaran atas akun Anda apabila hal tersebut tidak benar. Anda selanjutnya menyatakan dan menjamin bahwa Anda memiliki hak, wewenang dan kapasitas untuk menggunakan Layanan dan akan senantiasa mematuhi Ketentuan Penggunaan ini. Jika Anda mendaftarkan atas nama suatu badan usaha, Anda juga menyatakan bahwa Anda berwenang untuk bertindak untuk dan atas nama badan hukum tersebut dan untuk  mengadakan dan mengikatkan badan hukum/entitas tersebut pada Ketentuan Penggunaan. 
+	b.	Anda dapat menggunakan Platform dengan terlebih dahulu melakukan pendaftaran yang disertai pemberian informasi data pribadi Anda yang dapat dipertanggung jawabkan secara hukum sebagaimana diminta dalam Platform (“Profile Pribadi”). Informasi terkait Profil Pribadi yang diberikan hanya akan digunakan oleh Kami dan/atau Penyedia Layanan untuk pemberian layanan-layanan dalam Platform dan untuk tujuan lain yang telah Anda setujui sesuai dengan ketentuan perundang-undangan yang berlaku. Kebijakan Privasi (sebagaimana diperbarui dari waktu ke waktu) menjadi bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini. 
+	c.	Setelah mendaftarkan diri pada Platform, Anda akan mendapatkan suatu akun pribadi yang dapat diakses dengan One Time Password (OTP) yang akan dikirimkan ke email dan atau nomor telepon seluler Anda. Kami harap Anda tidak menyerahkan, mengalihkan maupun memberikan wewenang kepada orang lain untuk menggunakan identitas atau menggunakan akun Anda. Anda wajib menjaga kerahasiaan kata sandi akun Anda dan setiap identifikasi yang kami berikan kepada Anda atas akun atau Data Pribadi Anda. 
+	d.	Anda memiliki tanggung jawab atas setiap penggunaan akun Anda dalam Platform. Apabila Anda tidak memiliki kontrol atas akun Anda oleh sebab apapun, maka Anda diharuskan untuk melaporkannya kepada Kami. Apabila terjadi penyalahgunaan akun Anda oleh pihak ketiga manapun sebelum pelaporan terjadi, maka penggunaan akun pada periode tersebut akan menjadi tanggung jawab Anda sepenuhnya.
+	e.	Anda tidak diperkenankan untuk membahayakan, menyalahgunakan, mengubah atau memodifikasi Platform dengan cara apapun. Kami dapat menutup, membatalkan akun Anda dan/atau melarang Anda untuk menggunakan Platform lebih lanjut jika Anda tidak mematuhi Ketentuan Penggunaan ini. 
+	f.	Dengan menggunakan Platform, maka Anda memahami, setuju, dan tunduk sesuai yang dipersyaratkan pada Kebijakan Privasi Kami sebagaimana dapat diperbaharui dari waktu ke waktu. 
+	g.	Anda akan menggunakan Platform hanya untuk tujuan mendapatkan Layanan, dan tidak akan menyalahgunakan atau menggunakan Platform untuk aktivitas yang bertentangan dengan hukum, termasuk namun tidak terbatas kepada tindak pidana pencucian uang, pencurian, penggelapan, terorisme maupun penipuan. Anda juga sepakat bahwa Anda tidak akan melakukan penyimpanan data palsu dan atau pemesanan layanan palsu melalui Platform dan tidak akan melakukan perbuatan melawan hukum melalui Platform.
+	h.	Anda mengetahui dan setuju bahwa setiap informasi dalam bentuk apapun, termasuk namun tidak terbatas pada video, audio, gambar atau tulisan yang ada dalam Platform memiliki hak atas kekayaan intelektual (termasuk namun tidak terbatas kepada hak atas merek dan hak cipta) masing-masing. Anda tidak diperbolehkan untuk menggunakan, mengubah, memfasilitasi, menyebarluaskan dan/atau memutilasi hak atas kekayaan intelektual tersebut tanpa izin dari pemilik hak atas kekayaan intelektual tersebut sebagaimana diatur dalam peraturan perundang-undangan yang berlaku.
+	i.	Pada saat mengakses dan menggunakan Platform termasuk setiap fitur dan layanannya, Anda tidak diperkenankan untuk:
+	1)	mengalihkan akun Anda di Platform kepada pihak lain tanpa persetujuan terlebih dahulu dari Kami.
+	2)	menyebarkan virus, spam atau teknologi sejenis lainnya yang dapat merusak dan/atau merugikan Platform dan pengguna Platform lainnya.
+	3)	memasukkan atau memindahkan fitur pada Platform tanpa persetujuan dari Kami.
+	4)	menempatkan informasi atau aplikasi lain yang melanggar hak kekayaan intelektual pihak lain di dalam Platform.
+	5)	mengambil atau mengumpulkan data pribadi dari pengguna Platform lain, termasuk tetapi tidak terbatas pada alamat surel, tanpa persetujuan dari pengguna tersebut.
+	6)	menggunakan Platform untuk hal-hal yang dilarang berdasarkan hukum dan undang-undang yang berlaku.
+	7)	menggunakan Platform untuk mendistribusikan iklan atau materi lainnya.
+	j.	Anda mengetahui dan menyetujui bahwa tarif Layanan yang tercantum pada Platform dapat mengalami perubahan sesuai dengan tarif Layanan yang ditetapkan oleh Penyedia Layanan.
+	k.	Seluruh artikel kesehatan yang Kami tampilkan di Platform Kami digunakan untuk mengedukasi pengguna dan bukan merupakan pengganti dari saran, diagnosis atau perawatan medis dari layanan dokter rekanan Kami.
+	l.	Seluruh informasi penyakit dan obat yang Kami tampilkan di Platform Kami adalah bersifat informasi umum sesuai yang tercantum pada buku dan kemasan obat. 
+	m.	Platform memiliki tautan dengan situs-situs yang dioperasikan oleh pihak ketiga. Tautan tersebut tersedia untuk kenyamanan anda dan hanya akan digunakan untuk menyediakan akses ke situs pihak ketiga dan bukan untuk tujuan lainnya. Kualitas, isi maupun informasi dari Produk atau layanan tersebut akan disediakan oleh situs yang dioperasikan oleh pihak ketiga.
+	n.	Akun Tea ATM Sehat Anda
+	1)	Akun Tea ATM Sehat Anda hanya dapat digunakan oleh Anda dan tidak bisa dialihkan kepada orang lain dengan alasan apapun. Kami berhak menolak untuk memfasilitasi pesanan jika Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa Anda telah mengalihkan atau membiarkan Akun Anda digunakan oleh orang lain.
+	2)	Keamanan dan kerahasiaan Akun Tea ATM Sehat Anda, termasuk nama terdaftar, nomor telepon genggam terdaftar, serta kode verifikasi yang dihasilkan dan dikirim oleh sistem Kami sepenuhnya merupakan tanggung jawab pribadi Anda. Semua kerugian dan risiko yang ada akibat kelalaian Anda menjaga keamanan dan kerahasiaan sebagaimana disebutkan ditanggung oleh Anda sendiri. Dalam hal demikian, Kami akan menganggap setiap penggunaan atau pesanan yang dilakukan melalui Akun Anda sebagai permintaan yang sah dari Anda.
+	3)	Segera beritahukan Kami jika Anda mengetahui atau menduga bahwa Akun Anda telah digunakan tanpa sepengetahuan dan persetujuan Anda. Kami akan melakukan tindakan yang Kami anggap perlu dan dapat Kami lakukan terhadap penggunaan tanpa persetujuan tersebut.
+
+3. LAYANAN
+<b>A. Fitur Connect to ATM Sehat</b>
+	1)	Fitur ini akan mengkoneksikan ID anda dengan alat, fasilitas dan/atau tenaga kesehatan yang bekerja sama dengan platform kami.
+	2)	Fitur ini membantu anda untuk mengambil data hasil cek kesehatan anda dari alat, fasilitas dan/atau tenaga kesehatan yang bekerja sama dengan platform kami. Dengan demikian anda akan memiliki Riwayat kesehatan yang dapat anda pantau dan bagikan sesuai dengan ketentuan hukum yang berlaku.
+	3)	Saat anda melakukan koneksi dengan alat, fasilitas dan/atau tenaga kesehatan yang bekerja sama dengan platform kami, maka anda setuju untuk menyimpan data hasil cek kesehatan yang anda lakukan ke dalam sistem ATM Sehat.
+<b>B. Fitur Chat dengan Dokter</b>
+	1)	Fitur ini memfasilitasi para dokter dan petugas kesehatan lain rekanan Kami sebagai Penyedia Layanan untuk berinteraksi dengan Anda melalui video call, voice call maupun chat yang dapat diakses melalui Platform.
+	2)	Anda dapat menghubungi para dokter dan petugas kesehatan lain rekanan Kami ketika mereka berstatus online. 
+	3)	Anda dapat membatalkan booking Chat dengan dokter dan petugas kesehatan lain rekanan Kami maksimal 45 (empat puluh lima) menit sebelum jadwal untuk berkonsultasi dimulai. Proses pengembalian dana akibat pembatalan booking Chat akan dilakukan sesuai dengan prosedur yang berlaku.
+	4)	Dokter dan petugas kesehatan lain rekanan Kami dapat membatalkan booking Chat maksimal 30 (tiga puluh) menit sebelum jadwal untuk berkonsultasi dimulai. Proses pengembalian dana dalam hal terjadi pembatalan booking Chat akan dilakukan sesuai dengan prosedur yang berlaku.
+	5)	Jika Anda tidak hadir pada jadwal booking yang telah Anda pilih maka Anda menyetujui bahwa dana yang telah Anda bayarkan tidak dapat dikembalikan. 
+	6)	Jika dokter dan petugas kesehatan lain rekanan Kami tidak hadir pada jadwal booking yang telah Anda buat dalam waktu maksimal 5 (lima) menit setelah jadwal yang seharusnya maka Kami akan mengembalikan dana Anda sesuai dengan prosedur yang berlaku.
+	7)	Kami akan mengirimkan pemberitahuan terkait janji Chat dengan Dokter melalui push notification pada perangkat elektronik Anda. Untuk dapat menerima push notification yang Kami kirimkan maka Anda harus mengaktifkan push notification tersebut. 
+	8)	Anda mengetahui dan menyetujui bahwa fitur ini tidak menggantikan pemeriksaan dan pengobatan dengan dokter pada umumnya atau tatap muka secara langsung. 
+	9)	Kami akan berupaya semaksimal mungkin agar dokter rekanan yang terdaftar pada Platform dapat memberikan tanggapan atas pertanyaan Anda sesegera mungkin. Namun demikian, Kami tidak menyarankan Anda menggunakan Platform untuk kondisi medis darurat.
+	10)	Layanan Kami tidak bersifat memaksa atau pun mengikat. Keputusan untuk menggunakan Layanan di Platform sepenuhnya berada di tangan Anda. Platform hanya merupakan fasilitator interaksi antara dokter rekanan yang terdaftar pada Kami sebagai Penyedia Layanan.
+	11)	Anda memahami bahwa Anda perlu memberikan informasi dan menjelaskan gejala atau keluhan fisik yang Anda alami secara lengkap, jelas dan akurat ketika melakukan percakapan dengan dokter rekanan Kami melalui fitur Chat dengan Dokter.
+	12)	Pada awal konsultasi, dokter atau tenaga kesehatan rekanan kami tidak dapat melihat data kesehatan anda. Untuk itu anda dapat membagikan hasil cek kesehatan anda kepada dokter atau tenaga kesehatan kami. Atau anda juga berhak untuk tetap menyembunyikan data kesehatan anda. Anda setuju untuk melakukan hal ini secara sadar dan tanpa paksaan apapun. Setelah konsultasi, anda juga dapat menyembunyikan kembali data kesehatan anda, sehingga tidak dapat dilihat kembali di platform kami.
+B1. Rekomendasi Istirahat
+	1)	Dengan menggunakan fitur Chat dengan Dokter, dokter dapat memberikan suatu Rekomendasi Istirahat kepada Anda berdasarkan diskresi tunggal dokter. 
+	2)	Rekomendasi Istirahat tidak dapat digunakan untuk keperluan investigasi polisi atau proses persidangan.
+	3)	Anda sepenuhnya memahami bahwa Rekomendasi Istirahat hanya berupa rekomendasi dari dokter kepada Anda untuk beristirahat di rumah dan rekomendasi tersebut tidak dapat disamakan dengan surat sakit.
+B2. Tea ATM Sehat-Video Consultation
+	1)	Fitur ini memfasilitasi dokter atau tenaga kesehatan lainnya yang Anda pilih sebagai Penyedia Layanan untuk berinteraksi dengan Anda melalui video call, voice call mau pun chat yang dapat diakses melalui link yang diberikan oleh dokter atau tenaga kesehatan Anda. Fitur ini berbeda dengan fitur Chat dengan Dokter.
+	2)	Layanan Kami tidak bersifat memaksa atau pun mengikat. Keputusan untuk menggunakan Layanan ini sepenuhnya berada di tangan Anda. Platform hanya merupakan fasilitator interaksi antara dokter dan tenaga kesehatan rekanan yang terdaftar pada Kami sebagai Penyedia Layanan.
+
+<b>C. Fitur Profile Overview dan History </b>
+	1)	Fitur ini bermanfaat untuk menyimpan data kesehatan anda. Kami berusaha semaksimal mungkin untuk menjaga data kesehatan anda dengan aman dan baik. Kami mengikuti aturan hukum dan peraturan pemerintah yang mengatur penyimpanan data kesehatan pribadi anda.
+	2)	Hasil cek kesehatan pada menu overview menunjukan hasil cek kesehatan anda yang terbaru.
+	3)	Hasil cek kesehatan pada menu history menunjukan seluruh hasil pemeriksaan kesehatan anda. Dalam history hasil tersebut anda dapat melihat waktu dan tempat anda melakukan cek kesehatan.
+	4)	Anda mengetahui dan menyetujui bahwa fitur ini tidak menggantikan diagnosis dan pengobatan dokter atau tenaga kesehatan lainnya. Selalu konsultasikan terlebih dahulu hasil cek kesehatan anda untuk mendapatkan kejelasan mengenai kondisi kesehatan anda sesuai dengan hasil cek kesehatan tersebut. 
+	5)	Layanan Kami tidak bersifat memaksa atau pun mengikat. Keputusan untuk menggunakan Layanan di Platform sepenuhnya berada di tangan Anda. Platform hanya merupakan fasillitas penyimpan data kesehatan anda.
+	6)	Anda memahami bahwa Anda perlu menyimpan data kesehatan pribadi anda untuk berbagai keperluan yang terkait kesehatan atau hal lain selama tidak melanggar aturan hukum yang berlaku.
+	7)	Anda dapat membagikan hasil cek kesehatan anda kepada pihak lain. Hal ini dilakukan dengan sadar dan setelah terlebih dahulu mendapatkan persetujuan anda. Kecuali dalam kondisi tuntutan hukum kami berkewajiban dan berhak untuk membuka hasil cek kesehatan anda kepada pihak yang berwenang.
+
+<b>D. Fitur Artikel Kesehatan</b>
+	1)	Melalui fitur ini, Anda dapat menambah pengetahuan mengenai kesehatan dan penyakit.
+	2)	Anda sepenuhnya memahami bahwa artikel ini tidak dapat langsung dijadikan landasan diagnosis penyakit dan terapi/pengobatan. Silahkan konsultasikan terlebih dahulu dengan dokter atau petugas kesehatan lainnya yang berwenang.
+
+
+4. TRANSAKSI ANDA
+
+	a.	Untuk dapat bertransaksi di Platform, Anda dapat menggunakan berbagai metode pembayaran yang tersedia pada Platform.
+	b.	Apabila Anda mencurigai adanya aktivitas yang tidak wajar dan/atau terjadi perselisihan/sengketa sehubungan dengan akun Anda, Anda dapat segera menghubungi Kami agar Kami dapat segera mengambil tindakan yang diperlukan.
+	c.	Anda dapat mengajukan pengembalian dana (refund) kepada Kami, klaim tersebut dapat Anda sampaikan maksimal 7 (tujuh) hari kalender sejak Anda menyampaikan bukti pendukung yang cukup. Dalam hal demikian Kami akan memproses pengembalian uang berdasarkan hasil tinjauan Kami atas klaim tersebut.
+	d.	Pengembalian dana (refund) Anda dapat Kami kembalikan ke sumber pembayaran yang sama.
+	e.	Kami dapat melakukan penangguhan segala transaksi yang berasal dari akun Anda serta dapat melakukan tindakan penangguhan transaksi apabila kami mengidentifikasi adanya masalah pada akun Anda atau suatu transaksi tertentu.
+	f.	Anda memahami dan menyetujui bahwa batas waktu pengajuan keluhan mengenai transaksi adalah maksimal 7 (tujuh) hari kalender setelah transaksi selesai.
+
+5. KETENTUAN TRANSAKSI
+
+A. Fitur Chat dengan Dokter
+	1.	Anda akan dikenakan tarif dengan jumlah tertentu untuk dapat menggunakan layanan Chat dengan dokter rekanan Kami.
+	2.	Apabila Anda memerlukan video call maupun voice call dengan dokter rekanan Kami, Anda perlu menginformasikan terlebih dahulu kepada dokter rekanan tersebut dan akan tergantung pada ketersediaan masing-masing dokter pada saat dihubungi.
+	3.	Anda harus membeli voucher konsultasi terlebih dahulu di menu pembayaran untuk melakukan konsultasi.
+	4.	Voucher konsultasi akan secara langsung terpakai saat layar chat sudah muncul di layar telepon dan saat Anda sudah terhubung dengan dokter dan/atau tenaga kesehatan lainnya. Satu sesi Chat ini terhitung 30 (tiga puluh) menit sampai dengan 1 (satu) jam dari sesi percakapan dimulai atau hingga Anda atau dokter dan/atau tenaga kesehatan lain mengakhiri sesi percakapan. 
+	5.	Saat menghubungi dokter melalui chat, Anda dapat mengirimkan gambar kepada dokter yang berkaitan dengan kondisi medis Anda dengan format png, jpg, dan bitmap. 
+	6.	Setelah sesi Chat dengan Dokter selesai, dokter dapat memberikan Doctor Notes (Catatan Dokter) dan Medicine Recommendation (Rekomendasi Obat). Catatan Dokter adalah catatan hasil sesi Chat dengan Dokter dan saran-saran terkait dengan kondisi medis Anda. Rekomendasi Obat adalah rekomendasi yang berisi saran obat atau penanganan kesehatan bagi Anda. Rekomendasi Obat hanya bersifat rekomendasi atau saran. 
+	7.	Dokter dapat melakukan Follow Up kepada Anda untuk mengecek kondisi kesehatan Anda setelah dilakukannya sesi Chat dengan Dokter.
+
+	8.	Transaksi tidak dapat dibatalkan setelah sesi Chat dengan Dokter berakhir atau selesai dilakukan.
+	9.	Kami dapat memblokir atau membatalkan akun Anda apabila terdapat penyalahgunaan fitur Chat dengan Dokter pada akun Anda.
+	10.	Dokter dapat memberikan Doctor Referral (Rujukan Dokter) sebagai referensi Anda. 
+	11.	Biaya yang dikenakan tersebut sudah termasuk Pajak Pertambahan Nilai (PPN).
+	12.	Ketepatan serta keakuratan Dokter dalam memberikan Medicine Recommendation (Rekomendasi Obat) akan bergantung pada hasil cek kesehatan anda dan informasi yang diberikan oleh Anda. Setiap isi dan/atau pernyataan-pernyataan dalam percakapan yang dilakukan oleh Anda dengan Dokter menggunakan fitur video call, voice call, chat, Doctor Notes (Catatan Dokter), Medicine Recommendation (Rekomendasi Obat), pada Platform, hal tersebut ialah percakapan dan interaksi pribadi antara Anda dengan Dokter rekanan sebagai pemberi jasa layanan kesehatan.
+
+ 
+B. Fitur Berlangganan
+	1.	Agar dapat tetap melihat hasil cek kesehatan anda yang terekam di platform ATM Sehat maka anda perlu membayar biaya berlangganan pada menu Pembayaran dan Berlangganan.
+	2.	Beberapa fitur di ATM Sehat hanya dapat diakses jika membayar biaya berlangganan.
+	3.	Biaya berlangganan sudah termasuk Pajak Pertambahan Nilai (PPN).
+
+
+C. Fitur Cek Kesehatan
+	1.	Pembayaran cek kesehatan dapat dilakukan secara tunai, debet/kredit, maupun melalui aplikasi TEA ATM Sehat.
+	2.	Biaya cek kesehatan sudah termasuk Pajak Pertambahan Nilai (PPN).
+
+6. PENGGUNAAN KODE KUPON
+
+	a.	Dengan menggunakan kode kupon, Anda setuju untuk terikat dengan syarat dan ketentuan mengenai penggunaan kode kupon.
+	b.	Kode kupon tidak dapat dialihkan dan tidak dapat ditukar dalam bentuk uang.
+	c.	Potongan harga yang terdapat dalam kode kupon tidak dapat diklaim dan/atau  diubah setelah pembelian dan pembayaran telah dikonfirmasi oleh Kami.
+	d.	Masing - masing kode kupon berlaku untuk periode tertentu. Silakan memeriksa masing - masing kupon yang Anda terima untuk memastikan masa berlaku kode kupon Anda.
+	e.	Kami berhak untuk menghentikan kode kupon sewaktu - waktu berdasarkan kebijakan mutlak Kami.
+	f.	Kami berhak, tanpa pemberitahuan sebelumnya, membatalkan penggunaan kupon oleh Anda jika ditemukan indikasi kecurangan atau pelanggaran yang dilakukan oleh Anda atas Ketentuan Penggunaan ini dan ketentuan hukum yang berlaku di wilayah Negara Republik Indonesia. Atas pembatalan tersebut, Kami tidak akan memberikan ganti rugi dalam bentuk apa pun.
+
+ 
+
+7. HAK ATAS KEKAYAAN INTELEKTUAL
+
+	a.	Kami adalah pemegang hak lisensi atas nama, ikon, dan logo “Tea ATM Sehat” serta fitur Chat dengan Dokter dan Tes Lab dalam Platform, yang mana merupakan hak cipta dan merek dagang yang dilindungi undang-undang Republik Indonesia. Anda dilarang untuk menggunakan, memodifikasi, dan/atau memasang nama, ikon, logo, atau merek tersebut tanpa persetujuan tertulis dari Kami. 
+	b.	Seluruh hak atas kekayaan intelektual yang terdapat dalam Platform berdasarkan hukum negara Republik Indonesia, termasuk dalam hal ini adalah kepemilikan hak kekayaan intelektual atas seluruh source code Platform dan hak kekayaan intelektual terkait Platform. Untuk itu, Anda dilarang untuk melakukan pelanggaran atas hak kekayaan intelektual yang terdapat pada Platform ini, termasuk melakukan modifikasi, karya turunan, mengadaptasi, menduplikasi, menyalin, menjual, membuat ulang, meretas, menjual, dan/atau mengeksploitasi Platform termasuk penggunaan Platform atas akses yang tidak sah, meluncurkan program otomatis atau script, atau segala program apapun yang mungkin menghambat operasi dan/atau kinerja Platform, atau dengan cara apapun memperbanyak atau menghindari struktur navigasi atau presentasi dari Platform atau isinya.
+	c.	Anda hanya diperbolehkan untuk menggunakan Platform semata-mata untuk kebutuhan pribadi dan tidak dapat dialihkan. 
+	d.	Kami dapat mengambil tindakan hukum terhadap setiap pelanggaran yang dilakukan oleh Anda terkait dengan hak kekayaan intelektual terkait Platform.
+
+8. IKLAN
+
+Platform dapat memuat iklan mengenai produk dan/atau layanan yang disediakan oleh pihak ketiga (“Iklan”). Seluruh informasi mengenai Iklan disediakan oleh pengiklan. Kami tidak memberikan dukungan (endorsement) atas Iklan mana pun. Komunikasi atau transaksi Anda dengan pengiklan dan setiap syarat, ketentuan, jaminan atau pernyataan yang terkait dengan transaksi tersebut semata – mata merupakan hubungan antara Anda dengan pengiklan tersebut. 
+
+9. PEMBERITAHUAN
+
+	a.	Semua pemberitahuan atau permintaan informasi kepada atau tentang Kami akan diproses jika dibuat secara tertulis dan dikirimkan ke alamat kami di: Ruang Tenant DISTP UI, Lt.2, Gedung ILRC UI, Kampus UI Depok, Jawa Barat atau alamat surat elektronik Kami di: cs@email.tsi.co.id atau call center kami di +62878-4153-5929.
+	b.	Semua pemberitahuan dan/atau permintaan kepada atau tentang Anda akan diproses bila diserahkan langsung, dikirimkan melalui kurir, surat tercatat, atau alamat e-mail yang diberikan oleh Anda kepada Kami atau dengan cara memasang pemberitahuan atau permintaan tersebut di Platform yang dapat diakses oleh umum tanpa dikenakan biaya. Pemberitahuan kepada Anda akan dianggap sudah diterima oleh Anda tersebut jika dan bila:
+	1)	Kami dapat menunjukkan bahwa pemberitahuan tersebut, baik dalam bentuk fisik maupun elektronik, telah dikirimkan kepada Anda; atau
+	2)	Kami telah memasang pemberitahuan tersebut di Platform yang dapat diakses oleh umum tanpa dikenakan biaya.
+
+10. MAINTENANCE PLATFORM
+
+Kami senantiasa melakukan upaya untuk menjaga Platform ini berfungsi dan berjalan lancar. Perlu diketahui bahwa Platform dan/atau fitur Layanan Kami dapat sewaktu-waktu tidak tersedia yang disebabkan oleh berbagai alasan, termasuk namun tidak terbatas pada keperluan pemeliharaan atau masalah teknis, dan situasi ini berada di luar kuasa kami. 
+
+11. PEMBEKUAN AKUN
+
+Anda tidak akan menggunakan Platform pada perangkat atau sistem operasi yang telah dimodifikasi diluar perangkat atau konfigurasi sistem operasi dan konfigurasi Kami. Hal ini mencakup perangkat yang telah melalui proses “rooted” atau “jail-broken”. Perangkat rooted atau jail-broken adalah perangkat yang telah dibebaskan dari pembatasan yang dikenakan oleh penyedia layanan perangkat dan yang dimanufaktur tanpa persetujuan penyedia layanan perangkat. Penggunaan Platform pada perangkat rooted atau jail-broken dapat mengkompromisasi keamanan dan berujung pada transaksi penipuan.
+Kami tidak bertanggung jawab atas pengunduhan dan penggunaan Platform pada perangkat rooted atau jail-broken dan resiko penggunaan anda terhadap perangkat rooted atau jail-broken sepenuhnya adalah resiko Anda. Anda mengerti dan setuju bahwa Kami tidak bertanggung jawab atas segala kehilangan atau setiap konsekuensi lain yang diderita atau disebabkan oleh anda sebagai akibat dari penggunaan Platform pada perangkat rooted atau jail-broken dan Kami mempunyai diskresi untuk menghentikan penggunaan Anda terhadap Platform pada perangkat rooted atau jail-broken dan memblokir perangkat rooted atau jail-broken untuk menggunakan Platform.
+
+12. Layanan Pengaduan Konsumen Direktorat Jenderal Perlindungan Konsumen dan Tata Tertib Niaga Kementerian Perdagangan RI. Nomor Whatsapp Ditjen PTKN: +62 853 1111 1010
+
+13. PENGHAPUSAN AKUN
+	a.	Anda dapat melakukan penghapusan akun Anda dengan mengakses fitur Delete My Account.
+	b.	Anda dapat menghapus profil yang dibuat di bawah akun Anda dengan mengakses langsung pada setiap profil yang ingin Anda hapus.
+	c.	Dalam hal penghapusan profil sebagaimana dimaksud pada poin 13(b) di atas, tergantung pada alasan penghapusan yang Anda pilih, informasi dan data yang terdapat pada profil yang dihapus akan:
+	i.	Dihapus secara permanen; atau
+
+	ii.	Disatukan dengan data yang disimpan pada profil lainnya yang berada di bawah akun Anda.
+	d.	Dengan tunduk pada poin 13(c.i.) di atas, Anda memahami bahwa setelah akun Anda atau profil manapun yang dibuat di bawah akun Anda dihapus, maka akun Anda atau profil manapun yang dibuat di bawah akun Anda (termasuk seluruh riwayat transaksi dan seluruh layanan di dalamnya) akan terhapus selamanya dan tidak dapat dipulihkan kembali oleh Anda karena alasan apapun.
+	e.	Akun Anda dapat dibekukan untuk sementara waktu atau dapat dibekukan secara permanen karena hal-hal, termasuk namun tidak terbatas pada, sebagai berikut: 
+(i) Laporan Anda bahwa akun Anda digunakan atau diduga digunakan atau disalahgunakan oleh orang lain; 
+(ii) Laporan Anda bahwa telepon genggam atau tablet pribadi Anda hilang, dicuri atau diretas; 
+(iii) Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa akun Anda telah dialihkan atau digunakan oleh orang lain; 
+(iv) Kami mengetahui atau dengan alasan yang cukup menduga bahwa telah terjadi hal-hal yang menurut pandangan Kami telah atau dapat merugikan Kami, Anda, Penyedia Layanan atau pihak lainnya; 
+(v) Kami mengetahui atau dengan alasan yang cukup menduga bahwa anda telah mendaftar atau masuk dalam banyak akun dalam satu perangkat untuk tujuan melanggaran Ketentuan Penggunaan, Kebijakan Privasi atau hukum yang berlaku di Indonesia;
+(vi) Sistem Kami mendeteksi adanya tindakan yang tidak wajar dari penggunaan akun Anda atau adanya kewajiban berdasarkan Ketentuan Penggunaan, dan/atau Kebijakan Privasi yang tidak dipenuhi oleh Anda; 
+(vii) Anda telah meninggal dunia, ditempatkan di bawah perwalian atau pengampuan atau mengalami ketidakmampuan lainnya yang menjadikan Anda tidak cakap hukum berdasarkan peraturan perundang-undangan yang berlaku; 
+(viii) Penggunaan Platform atau Layanan oleh Anda atau pihak lain (yang menggunakan akun Anda) dengan cara yang bertentangan dengan Ketentuan Penggunaan ini, Kebijakan Privasi atau peraturan perundang-undangan yang berlaku; dan/atau 
+(ix) Perintah untuk pembekuan akun, baik sementara atau permanen, yang diterbitkan oleh institusi pemerintah atau moneter terkait atau berdasarkan perintah pengadilan yang diterbitkan sesuai dengan peraturan perundang-undangan yang berlaku.
+Jika akun Anda dibekukan dan Anda memiliki bukti yang jelas bahwa akun Anda seharusnya tidak dibekukan, Anda dapat membuat Laporan kepada Kami untuk menyampaikan bukti-bukti tersebut. Setelah melakukan pemeriksaan lebih lanjut terhadap Laporan Anda, Kami akan, atas kebijakan Kami sepenuhnya, menentukan untuk mengakhiri atau melanjutkan pembekuan terhadap Akun Anda. Pembekuan tidak akan diteruskan secara tidak wajar apabila Kami memutuskan bahwa hal-hal yang mengakibatkan terjadinya pembekuan telah diselesaikan.
+
+
+
+
+14. PENUTUP
+
+	a.	Ketentuan Penggunaan ini diatur dan ditafsirkan serta dilaksanakan berdasarkan hukum yang berlaku di Negara Republik Indonesia dan Anda dengan tegas menyetujui bahwa bahwa ketentuan Pasal 1266 Kitab Undang-Undang Hukum Perdata dan ketentuan lainnya yang mewajibkan adanya pengesahan atau persetujuan pengadilan untuk dapat mengakhiri Ketentuan Penggunaan tidak  berlaku terhadap Ketentuan Penggunaan ini.
+	b.	Segala sengketa yang berkaitan dengan Ketentuan Penggunaan ini, diselesaikan secara musyawarah untuk mufakat atau melalui Badan Arbitrase Nasional Indonesia (BANI), sesuai dengan prosedur yang berlaku di BANI. Apabila kedua belah pihak tidak sepakat untuk menyelesaikannya sengketa di BANI, maka sengketa akan diselesaikan melalui Pengadilan Negeri Jakarta Selatan.
